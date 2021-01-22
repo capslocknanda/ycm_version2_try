@@ -1,0 +1,63 @@
+{
+    "Top Heading" : "Raw-Material Input Page",
+    "Top Heading2" : "First-Phase Input Page",
+    "Top Heading3" : "Prediction Page",
+    "Parameter1" : "Furnace No. :",
+    "Parameter2" : "Material :",
+    "Parameter3" : "Heat :",
+    "Unit1" : "Materials: (KG)",
+    "Unit2" : "CE Meter & Triangle test piece",
+    "Unit2.1" : "CE Meter & Triangle test piece",
+    "Unit2.2" : "Materials: (%)",
+    "Metal1" : "Pig Iron :",
+    "Metal2" : "Scrap Iron :",
+    "Metal3" : "Reheated Iron :",
+    "Metal4" : "Ferronickel :",
+    "Metal5" : "Ferromolybdenum :",
+
+    "Metal6" : "Recarburizer :",
+    "Metal7" : "Ferrosilicon :",
+    "Metal8" : "Ferromanganese :",
+    "Metal9" : "Ferrochrome :",
+    "Metal10" : "Copper :",
+
+    "Metal11" : "Silicon Carbide :",
+    "Metal12" : "Inoculant :",
+    "Metal13" : "Iron Carbide :",
+    "Metal14" : "Spheroidizing Agent :",
+    "Metal15" : "Primary cristal Temperature :",
+
+    "Metal16" : "Eulectic Temperature :",
+    "Metal17" : "CE value :",
+    "Metal18" : "C :",
+    "Metal19" : "Si :",
+    "Metal20" : "In front of furnace (mm) :",
+
+    "Metal21" : "Early Crystal :",
+    "Metal22" : "Eutetic :",
+    "Metal23" : "C.E Value :",
+    "Metal24" : "Traingle test piece wedge value :",
+    "Metal25" : "Molten Iron Temperature :",
+
+    "Metal26" : "Hot Metal Temperature :",
+    "Metal27" : "Iron :",
+    "Metal28" : "Carbon :",
+    "Metal29" : "Silicon :",
+    "Metal30" : "Manganese :",
+
+    "Metal31" : "Phosphorus :",
+    "Metal32" : "Sulfur :",
+    "Metal33" : "Chromium :",
+    "Metal34" : "Molybdenum :",
+    "Metal35" : "Nickle :",
+    "Metal36" : "Copper :",
+
+    "Metal37" : "Titanium :",
+    "Metal38" : "Xi :",
+    "Metal39" : "Aluminum :",
+    "Metal40" : "Vandanium :",
+    "Metal41" : "In front of furnace (mm) :",
+
+    "Parameter4" : "Accuracy",
+    "Confirm" : "Confirm"
+}

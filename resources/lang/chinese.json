@@ -1,0 +1,63 @@
+{
+    "Top Heading" : "鑄造部週波爐熔解操作記錄報表",
+    "Top Heading2" : "鑄造熔解成份記錄表 (調整前)",
+    "Parameter1" : "爐次  NO:",
+    "Parameter2" : "材質 :",
+    "Parameter3" : "热 :",
+    "Unit1" : "配料 (KG)",
+    "Unit2" : "成份分析 & 三角試片",
+    "Unit2.1" : "成份分析 & 三角試片",
+    "Unit2.2" : "配料 (%)",
+    "Metal1" : "生鐵 :",
+    "Metal2" : "廢鐵 :",
+    "Metal3" : "回爐鐵 :",
+    "Metal4" : "鎳鐵 :",
+    "Metal5" : "鉬鐵 :",
+
+    "Metal6" : "增碳劑 :",
+    "Metal7" : "矽鐵 :",
+    "Metal8" : "錳鐵 :",
+    "Metal9" : "鉻鐵 :",
+    "Metal10" : "銅 :",
+
+    "Metal11" : "碳化矽 :",
+    "Metal12" : "接種劑 :",
+    "Metal13" : "碳化鐵 :",
+    "Metal14" : "球化劑 :",
+    "Metal15" : "初晶溫度 :",
+
+    "Metal16" : "共晶溫度 :",
+    "Metal17" : "CE 值 :",
+    "Metal18" : "C :",
+    "Metal19" : "Si :",
+    "Metal20" : "三角試片(爐前 mm) :",
+
+    "Metal21" : "初晶 :",
+    "Metal22" : "共晶 :",
+    "Metal23" : "C.E值 :",
+    "Metal24" : "三角試片楔值 :",
+    "Metal25" : "鐵水溶解溫度 :",
+
+    "Metal26" : "鐵水出爐溫度 :",
+    "Metal27" : "鐵 :",
+    "Metal28" : "碳 :",
+    "Metal29" : "矽 :",
+    "Metal30" : "錳 :",
+
+    "Metal31" : "磷 :",
+    "Metal32" : "硫 :",
+    "Metal33" : "鉻 :",
+    "Metal34" : "鉬 :",
+    "Metal35" : "鎳 :",
+
+    "Metal36" : "銅 :",
+    "Metal37" : "鈦 :",
+    "Metal38" : "鍚 :",
+    "Metal39" : "鋁 :",
+    "Metal40" : "釩 :",
+    "Metal41" : "三角試片楔值( mm) :",
+
+    "Parameter4" : "准确性",
+    "Confirm" : "确认"
+
+}
